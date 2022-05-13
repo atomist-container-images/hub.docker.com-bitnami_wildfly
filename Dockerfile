@@ -1,12 +1,42 @@
-# Tags: latest, 26.1.0-debian-10-r18, 26.1.0, 26-debian-10, 26
+# Tags: latest, 26.1.0-debian-10-r28, 26.1.0, 26-debian-10, 26
 FROM bitnami/wildfly:latest
-FROM bitnami/wildfly:26.1.0-debian-10-r18
+FROM bitnami/wildfly:26.1.0-debian-10-r28
 FROM bitnami/wildfly:26.1.0
 FROM bitnami/wildfly:26-debian-10
 FROM bitnami/wildfly:26
 
 # Tags: _
 FROM bitnami/wildfly:_
+
+# Tags: 26.1.0-debian-10-r27
+FROM bitnami/wildfly:26.1.0-debian-10-r27
+
+# Tags: 26.1.0-debian-10-r26
+FROM bitnami/wildfly:26.1.0-debian-10-r26
+
+# Tags: 26.1.0-debian-10-r25
+FROM bitnami/wildfly:26.1.0-debian-10-r25
+
+# Tags: 26.1.0-debian-10-r24
+FROM bitnami/wildfly:26.1.0-debian-10-r24
+
+# Tags: 26.1.0-debian-10-r23
+FROM bitnami/wildfly:26.1.0-debian-10-r23
+
+# Tags: 26.1.0-debian-10-r22
+FROM bitnami/wildfly:26.1.0-debian-10-r22
+
+# Tags: 26.1.0-debian-10-r21
+FROM bitnami/wildfly:26.1.0-debian-10-r21
+
+# Tags: 26.1.0-debian-10-r20
+FROM bitnami/wildfly:26.1.0-debian-10-r20
+
+# Tags: 26.1.0-debian-10-r19
+FROM bitnami/wildfly:26.1.0-debian-10-r19
+
+# Tags: 26.1.0-debian-10-r18
+FROM bitnami/wildfly:26.1.0-debian-10-r18
 
 # Tags: 26.1.0-debian-10-r17
 FROM bitnami/wildfly:26.1.0-debian-10-r17
@@ -68,30 +98,3 @@ FROM bitnami/wildfly:26.0.1
 
 # Tags: 26.0.1-debian-10-r81
 FROM bitnami/wildfly:26.0.1-debian-10-r81
-
-# Tags: 26.0.1-debian-10-r80
-FROM bitnami/wildfly:26.0.1-debian-10-r80
-
-# Tags: 26.0.1-debian-10-r79
-FROM bitnami/wildfly:26.0.1-debian-10-r79
-
-# Tags: 26.0.1-debian-10-r78
-FROM bitnami/wildfly:26.0.1-debian-10-r78
-
-# Tags: 26.0.1-debian-10-r77
-FROM bitnami/wildfly:26.0.1-debian-10-r77
-
-# Tags: 26.0.1-debian-10-r76
-FROM bitnami/wildfly:26.0.1-debian-10-r76
-
-# Tags: 26.0.1-debian-10-r75
-FROM bitnami/wildfly:26.0.1-debian-10-r75
-
-# Tags: 26.0.1-debian-10-r74
-FROM bitnami/wildfly:26.0.1-debian-10-r74
-
-# Tags: 26.0.1-debian-10-r73
-FROM bitnami/wildfly:26.0.1-debian-10-r73
-
-# Tags: 26.0.1-debian-10-r72
-FROM bitnami/wildfly:26.0.1-debian-10-r72
